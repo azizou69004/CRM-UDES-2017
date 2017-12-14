@@ -5,6 +5,8 @@ Front end : React Js using Redux,
 Back end Node Js, 
 DataBase Postgres, using Squel.
 
+https://www.youtube.com/watch?v=iaHOPxISLQ0&feature=youtu.be
+
 Members:
   - Project Managers:   Aziz ZOUAOUI & Vincent Quernel
   
